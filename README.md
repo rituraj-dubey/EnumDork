@@ -1,9 +1,11 @@
-# EnumDork Enumeration Script
-### Author: Rituraj Dubey
+### EnumDork Enumeration Script
+* * *
 
-# Instructions
-# 1. First install the requirements.txt
-# pip intsall -r requirements.txt
+**Setup:-**
+1. First install the requirements using `pip install -r requirements.txt`
+2. `python3 Enumdork.py`
+
+![enumdork.png](./enumdork.png)
 
 
-## The Script should be run in it's folder as path is hard coded in the script
+![dir_enum.png](./dir_enum.png)
